@@ -1,16 +1,15 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hyuna%27s%20Github&height=180&fontSize=55&animation=fadeIn&textY=30&colorGradient=%23dda0dd%2C%23da70d6%2C%239932cc%2C%239400d3%2C%234b0082&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hyuna%27s%20Github&height=180&fontSize=55&animation=fadeIn&textY=36&colorGradient=%23dda0dd%2C%23da70d6%2C%239932cc%2C%239400d3%2C%234b0082&fontColor=ffffff" />
 </div>
 
-
-
 <!--내용 부분-->
-✨ Tech Stack ✨
-
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
@@ -56,13 +55,6 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge
+  <img src="https://img.shields.io/badge/adobe%20
 
 
