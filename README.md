@@ -83,4 +83,6 @@ Here are some ideas to get you started:
     <img
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=첫번째+줄+의+텍스트;두번째+줄+의+텍스트)](https://git.io/typing-svg)
+출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 </div>
