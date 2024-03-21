@@ -1,7 +1,8 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b, 100:f94001&text=Hyuna%27s%20Github&height=180&fontSize=55&animation=fadeIn&textY=36&colorGradient=0%2C100&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hyuna%27s%20Github&height=180&fontSize=55&animation=fadeIn&textY=36&colorGradient=0%3A8a2be2%2C100%3A9400d3&fontColor=ffffff" />
 </div>
+
 
 
 <!--내용 부분-->
